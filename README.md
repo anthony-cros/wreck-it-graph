@@ -1,7 +1,5 @@
 # wreck-it-graph
 
-![Example.scala]
-(http://imgur.com/O0PU8GF)
+![Example.scala](https://raw.githubusercontent.com/anthony-cros/wreck-it-graph/master/src/main/resources/example.png)
 
-![Blocks.scala]
-(http://imgur.com/Vfs9LVp)
+![Blocks.scala](https://raw.githubusercontent.com/anthony-cros/wreck-it-graph/master/src/main/resources/blocks.png)
